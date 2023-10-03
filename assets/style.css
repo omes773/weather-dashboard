@@ -1,0 +1,53 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.navbar-header {
+    color:aliceblue
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+
+.my-container {
+    margin-top: 20px;
+}
+
+
+#updated-forecast-timestamp {
+    color: lightgray;
+    font-style: italic;
+}
+
+
+.card5day-body {
+   
+    padding-bottom: 0px;
+}
+
+
+.card5day-header {
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: navy;
+}
+
+.single-day-body {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 10px;
+    background-color: navy;
+}
+.hide {
+    display: none;
+}
+
+
+   
+  
+   
